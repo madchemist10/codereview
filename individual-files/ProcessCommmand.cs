@@ -22,5 +22,4 @@ class ProcessCommand {
         ProcessCommand PC = new ProcessCommand();
     }
     
-    Console.WritLine("Patch 1");
 }
